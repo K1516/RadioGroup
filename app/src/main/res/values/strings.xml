@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioGroup</string>
+    <string name="button">Select</string>
+    <string name="food1_txt">Fish</string>
+    <string name="food2_txt">Kebab</string>
+    <string name="food3_txt">Soup</string>
+    <string name="food4_txt">Vegetarian</string>
+    <string name="food5_txt">Steak</string>
+</resources>
